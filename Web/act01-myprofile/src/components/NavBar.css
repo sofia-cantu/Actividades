@@ -1,0 +1,12 @@
+a{
+    color: white;
+    text-decoration: pink;
+    font-size: small;
+    padding: 0.5rem 1rem; 
+}
+
+a:hover{
+    color: rgb(245, 10, 10);
+    text-decoration: rgb(0, 255, 76); 
+    font-size: larger;  
+}

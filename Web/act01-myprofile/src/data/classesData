@@ -1,0 +1,22 @@
+const classesData = [ 
+    {
+        id: 1,
+        name: 'Construcción de Software - Web',
+        teacher: 'David Cantú',
+        classroom: 'A3-305',
+    },
+    {
+        id: 2,
+        name: 'Construcción de Software - Videojuegos',
+        teacher: 'Claudia Solís',
+        classroom: 'A3-305',
+    },
+    {
+        id: 3,
+        name: 'Construcción de Software - BD',
+        teacher: 'Lavariega',
+        classroom: 'A3-305',
+    }
+];
+
+export default classesData;

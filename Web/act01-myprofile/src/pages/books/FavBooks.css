@@ -1,0 +1,40 @@
+.jumbotron{
+    color: white;
+}
+
+img {
+    max-width: 200px;
+    height: auto;
+}
+
+/* Estilos para el rating con estrellas */
+.stars {
+    display: inline-block;
+    font-size: 1.5em;
+    color: #FFCE00;
+}
+
+/* Estilos para la reseña de los libros */
+.review {
+    font-style: italic;
+    color: #eff0d5;
+}
+
+h2 {
+    font-size: large;
+    text-align: center;
+    color: #eff0d5;
+    font-size: 1.1em;
+}
+
+h3 {
+    font-size: large;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.8em;
+    margin-top: 40px;
+}
+
+p {
+    color: #171430;
+}

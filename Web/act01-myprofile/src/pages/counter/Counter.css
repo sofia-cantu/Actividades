@@ -1,0 +1,27 @@
+/* class with font in yellow */
+.Counter {
+    font-size: 1.Sem;
+    text-align: center;
+    color: #87b091;
+    font-family: Garamond;
+}
+
+.ButtonUp{
+    background-color: #c4d4ab;
+    color: #171430;
+}
+
+.ButtonUp:hover{
+    background-color: #87b091;
+    color: #eff0d5 ;
+}
+
+.ButtonDown{
+    background-color: #eff0d5;
+    color: #171430;
+}
+
+.ButtonDown:hover{
+    background-color: #87b091;
+    color: #c4d4ab;
+}

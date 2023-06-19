@@ -1,0 +1,25 @@
+/*
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 100%;
+    overflow: auto;
+}
+
+.container embed {
+    width: 100%;
+    height: auto;
+}
+*/
+.container {
+    width: 100%; /* ancho del 100% de la pantalla */
+  }
+  
+.container embed {
+    height: auto; /* altura del 100% del contenedor */
+    width: 100%; /* ancho del 100% del contenedor */
+  }
