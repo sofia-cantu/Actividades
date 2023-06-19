@@ -1,0 +1,44 @@
+.persona-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .persona-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .persona-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .persona-container label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .persona-container input,
+  .persona-container select {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .persona-container button[type="submit"] {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .persona-container button[type="submit"]:hover {
+    background-color: #45a049;
+  }

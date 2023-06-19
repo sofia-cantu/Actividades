@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap");
+label{
+    text-align: left;
+}
+
+h3{
+    text-align: left;
+    padding-left: 5%;
+    padding-top: 2%;
+    font-size: x-large;
+}
+
+ 
+.signup__container{
+   
+    width: 100%;
+    min-height: 35vh;
+    padding-left: 5%;
+    padding-right: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+ }
+
+ 
+ 
+ 
+ 
+.codeBtn {
+    background-color: green;
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+.signOutBtn {
+    background-color: #c21010;
+    color: #fff;
+}
+
+.link {
+    cursor: pointer;
+    color: rgb(39, 147, 39);
+}
+
+.verify__form {
+    align-items: center;
+}
+
+@media screen and (max-width: 800px) {
+    .login__container,
+    .signup__container,
+    .verify {
+        padding: 30px;
+    }
+}

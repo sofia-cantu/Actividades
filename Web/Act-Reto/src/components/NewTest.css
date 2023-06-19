@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+  }
+  
+  .questions {
+    flex: 1;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .answers {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .question {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .answer {
+    margin-bottom: 20px;
+  }
