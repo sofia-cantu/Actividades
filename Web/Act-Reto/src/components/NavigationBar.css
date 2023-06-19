@@ -1,0 +1,38 @@
+.NavBar {
+    background-color: #f0e4cc;
+}
+
+.black-link,
+.black-link .dropdown-toggle {
+  color: black;
+}
+
+.abuelitos-link, .ingresa-link, .miperfil-link {
+    font-weight: bold;
+    color: #000000 !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.Link {
+    color: #fdf39a;
+    text-decoration: none;
+    padding: 0 .5em;
+    opacity: .85;
+}
+
+.Link:hover {
+    color: #fdf39a;
+    opacity: .60;
+}
+
+.Link:visited {
+    color: #fdf39a;
+    opacity: .85;
+}
+
+.Link:active {
+    color: #fdf39a;
+    opacity: 1;
+}

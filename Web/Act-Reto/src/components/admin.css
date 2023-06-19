@@ -1,0 +1,26 @@
+.container {
+    background-color: lightbrown;
+    padding: 10px;
+  }
+  .barra{
+    width: 80%;
+  }
+  .search-bar {
+    margin-bottom: 10px;
+  }
+  
+  .grid-container {
+    display: grid;
+    gap: 5px;
+  }
+  
+  .column {
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }

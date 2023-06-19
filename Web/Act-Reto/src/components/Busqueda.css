@@ -1,0 +1,58 @@
+.titulo {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.busqueda h2 {
+  text-align: left;
+  margin-bottom: 20px;
+  margin-left: 90px;
+}
+
+.table-container {
+  margin: 0 auto;
+  width: 80%;
+  background-color: rgb(235, 217, 189);
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+}
+
+th, td {
+  padding: 10px;
+}
+
+th {
+  background-color: rgb(235, 217, 189);
+}
+
+a {
+  text-decoration: none;
+}
+
+.buscar {
+  text-align: center;
+}
+
+.buscar label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.nombre-input {
+  width: 100%;
+  padding: 15px;
+  background-color: #000000;
+  color: #000000;
+  border: none;
+}
+
+.nombre-input::placeholder {
+  color: #ffffff;
+}
+
+.buscarnombre{
+  background-color: #060000;
+}

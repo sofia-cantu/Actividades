@@ -1,0 +1,74 @@
+.container{
+  margin-left: 0px;
+  border-color: black;
+}
+
+.Afectiva-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+
+  .Afectiva-title {
+    border-radius: 500px;
+    border-color: black;
+  }
+
+  .Afectiva-title h1 {
+    font-size: 60px;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 10px;
+    font-family: "Serifa", serif;
+  }
+  .Afectiva-subtitle p{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 40px;
+  }
+
+  .Afectiva-description p{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 40px;
+  }
+
+  .Afectiva-logo img{
+    width: 330px;
+    height: 600px;
+    object-fit: contain;
+    margin-top: 60px;
+  }
+
+  .Afectiva-pruebas h2 {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    font-family: "Serifa", serif;
+    font-weight: bold;
+    font-size: 30px;
+  }
+
+  .Afectiva-buttons img{
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-left: 10px;
+  }
+
+  .Afectiva-buttons{
+    display: flex;
+    margin: 20px;
+    margin-right: 10px;
+  }
+
+
+
+
